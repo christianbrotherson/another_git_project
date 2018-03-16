@@ -2,4 +2,5 @@
 
 > It does some really cool stuff
 
-> And maybe some not so cool stuff
+>it does even more cool stuff now that i have contributed to it
+
